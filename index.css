@@ -1,0 +1,10 @@
+.image_area {
+    position: relative;
+}
+
+.overlay_text {
+    position: absolute;
+    bottom: 0;
+    left: 10vw;
+    font-size: 400%;
+}
